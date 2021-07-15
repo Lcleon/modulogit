@@ -4,5 +4,5 @@ alteracao de arquivo
 =======
 inclusão de abobrinhas no ramo2 em README
 Mais enxeção de linguça
-Não aguento mais enxeção de linguiça
+Não aguento mais encheção de linguiça
 >>>>>>> ramo2
