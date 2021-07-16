@@ -1,0 +1,1 @@
+inclusão de Teste, simulando arquivo javascript
